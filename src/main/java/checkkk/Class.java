@@ -1,4 +1,4 @@
-package Model;
+package checkkk;
 
 public class Class {
     int id;
